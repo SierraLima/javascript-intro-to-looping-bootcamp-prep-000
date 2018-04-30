@@ -13,5 +13,5 @@ function whileLoop(number){
 while (n > 0) {
   console.log(--n)
 }
-return number
+return 'done'
 }
